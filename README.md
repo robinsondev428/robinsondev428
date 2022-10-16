@@ -44,6 +44,8 @@
   <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+    <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
