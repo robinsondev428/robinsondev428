@@ -5,6 +5,9 @@
   Highly skillful Front End Developer with over 6 years of experience in Web Development. Not only proficient in high quality code and highly responsive UI development using wide range of programing languages, but also brilliant at handling problems in any part of process with ease, especially in React for front end development. Always with customers by going the extra mile to makes them unquestionably satisfied with our product and service
 </p>
 <br/>
+<p align="center">
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
+</p>
 <br/>
 
   <div>
