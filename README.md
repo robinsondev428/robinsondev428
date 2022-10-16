@@ -10,11 +10,10 @@
   <div>
   <h2 font-weight="bold">Programming Language</h2>
    <div align="left">
-    <code><img alt="Rust" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
+    <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
+    <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
     <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-     <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
-    <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
     <a href="https://www.qt.io/" target="_blank">
       <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
     </a>
@@ -28,11 +27,10 @@
 
   <div align="left">
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+  <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
   <code><img alt="nestjs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/></code>
   <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-  <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
