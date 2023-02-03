@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" /> 
 <p>
-  Highly skillful Front End Developer with over 10 years of experience in Web Development. Not only proficient in high quality code and highly responsive UI development using wide range of programing languages, but also brilliant at handling problems in any part of process with ease, especially in React for front end development. Always with customers by going the extra mile to makes them unquestionably satisfied with our product and service
+  Highly skillful Front End Developer with over 7 years of experience in Web Development. Not only proficient in high quality code and highly responsive UI development using wide range of programing languages, but also brilliant at handling problems in any part of process with ease, especially in React for front end development. Always with customers by going the extra mile to makes them unquestionably satisfied with our product and service
 </p>
 <br/>
 
